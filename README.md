@@ -41,7 +41,7 @@ This project contains analysis of covid 19 cases worldwide and in US. It uses ge
 
 My exposure to vision AI and tensorflow is limited but in this project I attempted to create a binary classifier for Image and image segmentation.
 
-## Model Tracking of Neural Networks: Tensorflow and Shell(https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)
+## [Model Tracking of Neural Networks: Tensorflow and Shell](https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)
 This projects uses shell and open source utility called " DATMO" to track tensoeflow models. Datmo is an open source production model management tool for data scientists
 
 
