@@ -16,7 +16,7 @@ For this project I built a supervised classification model which predicts which 
 
 For this project I used Facebook's Prophet package which predicts passenger Seats availability based on historic trends. I also created a flavour of algorithm where it predicts availability by different category in a loop. I added extra regressors for missing dates/data so model is not underfitting. These same extra regressors can be used for other variables so same code can be used for multivariate analysis. Plotly intercative charts are used for all forecasts so you can switch between different time periods in same chart without having to create multiple forecasts for multiple time period.
 
-## Employee Sentiment Analysis : Sentiment Analysis using NLP ( Natural Language processing)
+## [Employee Sentiment Analysis : Sentiment Analysis using NLP ( Natural Language processing)]()
 
 This Project uses NLP libraries to analyze sentiments and tags them as positive , negative and neutral sentiments. It uses NLTK libraries to tokenize the words and it also has word cloud to see what are most used words in a comment or conversation.
 
@@ -41,7 +41,7 @@ This project contains analysis of covid 19 cases worldwide and in US. It uses ge
 
 My exposure to vision AI and tensorflow is limited but in this project I attempted to create a binary classifier for Image and image segmentation.
 
-## [Model Tracking of Neural Networks: Tensorflow and Shell](https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)
+## [Model Tracking of Neural Networks.Tensorflow and Shell](https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)
 
 This projects uses shell and open source utility called " DATMO" to track tensoeflow models. Datmo is an open source production model management tool for data scientists
 
