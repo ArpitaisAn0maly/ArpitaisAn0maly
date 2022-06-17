@@ -8,11 +8,11 @@ I have more than 12 years of experience in data analytics, data mining and predi
 
 *In order to showcase my work in my portfolio, all outputs contain anonymized,synthesized sample data.There is no sensitive or proprietary information contained in any of the outputs*
 
-## Employee Atrition & Retention :Classification
+## [Employee Atrition & Retention :Classification]()
 
 For this project I built a supervised classification model which predicts which employee will stay with company and which employee will leave the company. It also estimates the probability of an employee leaving. This project also has presciptive solution where it shows what are the reasons behind employee atrition so an organization can take appropriate action to avoid employee atrition. 
 
-## Forecasting Seat availability : Prophet Forecast Model
+## [Forecasting Seat availability : Prophet Forecast Model](https://github.com/ArpitaisAn0maly/Machine-Learning-Forecasting)
 
 For this project I used Facebook's Prophet package which predicts passenger Seats availability based on historic trends. I also created a flavour of algorithm where it predicts availability by different category in a loop. I added extra regressors for missing dates/data so model is not underfitting. These same extra regressors can be used for other variables so same code can be used for multivariate analysis. Plotly intercative charts are used for all forecasts so you can switch between different time periods in same chart without having to create multiple forecasts for multiple time period.
 
