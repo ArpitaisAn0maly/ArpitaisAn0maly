@@ -6,6 +6,28 @@
 I am a passionate data scientist who has broad and in-depth data engineering, programming, statistics skills and I am using these skills to solve various business problems by using machine learning, data mining, and other types of data analytics and data visualization tools such as Python, Spark, Databricks, Azure suite of data tools, TensorFlow, Karas, Tableau, Hive, Power BI , Azure Synapse etc. 
 I have more than 12 years of experience in data analytics, data mining and predictive modeling. I did my Masters in Computer Science at National University.
 
+## In order to showcase my work in my portfolio,all outputs contain anonymized,synthesized sample data.There is no sensitive or proprietary information contained in any of the output.
+
+## Employee Atrition & Retention :Classification
+
+For this project I built a supervised classification model which predicts which employee will stay with company and which employee will leave the company. It also estimates the probability of an employee leaving. This project also has presciptive solution where it shows what are the reasons behind employee atrition so an organization can take appropriate action to avoid employee atrition. 
+
+## Retail Fraud transaction transaction Detection: Anomaly detection and clustering
+
+For this experiment project I built an unsupervised clustering algorithm which segments retail transactions in groups based on similarity and also detencts anamolous transactions.
+
+## Forecasting Seat availability : Prophet Forecast Model
+
+For this project I used Facebook's Prophet package which predicts passenger Seats availability based on historic trends. I also created a flavour of algorithm where it predicts availability by different category in a loop. I added extra regressors for missing dates/data so model is not underfitting. These same extra regressors can be used for other variables so same code can be used for multivariate analysis. Plotly intercative charts are used for all forecasts so you can switch between different time periods in same chart without having to create multiple forecasts for multiple time period.
+
+## Employee Sentiment Analysis : Sentiment Analysis using NLP ( Natural Language processing)
+
+This Project uses NLP libraries to analyze sentiments and tags them as positive , negative and neutral sentiments. It uses NLTK libraries to tokenize the words and it also has word cloud to see what are most used words in a comment or conversation.
+
+## Climate Change : GeoSpatial Analysis using Folium
+
+
+
 
 
 
