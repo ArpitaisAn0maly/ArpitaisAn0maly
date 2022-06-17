@@ -20,28 +20,28 @@ For this project I used Facebook's Prophet package which predicts passenger Seat
 
 This Project uses NLP libraries to analyze sentiments and tags them as positive , negative and neutral sentiments. It uses NLTK libraries to tokenize the words and it also has word cloud to see what are most used words in a comment or conversation.
 
-## Climate Change : GeoSpatial Analysis using Folium
+## [Climate Change : GeoSpatial Analysis using Folium](https://github.com/ArpitaisAn0maly/GeospatialAnalysis_Folium)
 
 This projects aims to look at climate change by looking at hurricane data from Atlantic basin from NOAA (National Oceanic and Atmospheric Administration). It does Geospatial analysis analysis using python library folium to analyze hurricane tracks, landfalls and their impact over the years in US region. Folium maps used for this projects shows heatmap effect over the years theough sliders. This project can be used to understand geographical impact of any factor by analysing latittude and longitude data. 
 
-## Neutral Networks with Deep visualisation: Tensorflow
+## [Neutral Networks with Deep visualisation: Tensorflow](https://github.com/ArpitaisAn0maly/Vision_Deep_Learning_Visulisation)
 
 inspired from paper https://arxiv.org/pdf/1506.06579.pdf this project visualizes Neural Network Activation, Weights, Gradients to understand and interpret neural networks and what goes behind network activation and other aspects.
 
 
-## Retail Fraud transaction transaction Detection: Anomaly detection and clustering
+## [Retail Fraud transaction transaction Detection: Anomaly detection and clustering](https://github.com/ArpitaisAn0maly/Machine-Learning-AnomalyDetection)
 
 For this experiment project I built an unsupervised clustering algorithm which segments retail transactions in groups based on similarity and also detencts anamolous transactions.
 
-## Covid 19 Extensive analysis by Regions & Case prediction: Logistic Regression ( sigmoid function)
+## [Covid 19 Extensive analysis by Regions & Case prediction: Logistic Regression ( sigmoid function)](https://github.com/ArpitaisAn0maly/Machine-Learning-Covid19)
 
 This project contains analysis of covid 19 cases worldwide and in US. It uses geospatial libraries to visualize data through interactive maps and it also uses Logistic regression sigmoid model to predict cases in future. It is an end to end machine learning solution.
 
-## Vision: Image classification & segmnentation: tensorflow
+## [Vision: Image classification & segmnentation: tensorflow](https://github.com/ArpitaisAn0maly/Vision-Cnn_Segmentation)
 
 My exposure to vision AI and tensorflow is limited but in this project I attempted to create a binary classifier for Image and image segmentation.
 
-## Model Tracking of Neural Networks: Tensorflow and Shell
+## Model Tracking of Neural Networks: Tensorflow and Shell(https://github.com/ArpitaisAn0maly/Vision-Deep-Learning-Model-Tracking)
 This projects uses shell and open source utility called " DATMO" to track tensoeflow models. Datmo is an open source production model management tool for data scientists
 
 
