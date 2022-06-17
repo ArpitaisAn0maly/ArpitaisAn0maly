@@ -26,6 +26,8 @@ This Project uses NLP libraries to analyze sentiments and tags them as positive 
 
 ## Climate Change : GeoSpatial Analysis using Folium
 
+This projects aims to look at climate change by looking at hurricane data from Atlantic basin from NOAA (National Oceanic and Atmospheric Administration). It does Geospatial analysis analysis using python library folium to analyze hurricane tracks, landfalls and their impact over the years in US region. Folium maps used for this projects shows heatmap effect over the years theough sliders. This project can be used to understand geographical impact of any factor by analysing latittude and longitude data. 
+
 
 
 
