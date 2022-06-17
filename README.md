@@ -30,7 +30,9 @@ For this experiment project I built an unsupervised clustering algorithm which s
 
 ## Covid 19 Extensive analysis by Regions & Case prediction: Logistic Regression ( sigmoid function)
 
+This project contains analysis of covid 19 cases worldwide and in US. It uses geospatial libraries to visualize data through interactive maps and it also uses Logistic regression sigmoid model to predict cases in future. It is an end to end machine learning solution.
 
+## Vision: Image Segmentation & Analysis : Tensorflow
 
 
 
