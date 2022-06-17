@@ -1,3 +1,6 @@
+
+![](/images/githubprofile.jpeg)
+
 I am a passionate data scientist who has broad and in-depth data engineering, programming, statistics skills and I am using these skills 
 to solve various business problems by using machine learning, data mining, and other types of data analytics and data visualization tools such as Python, 
 Spark, Databricks, Azure suite of data tools, TensorFlow, Karas, Tableau, Hive, Power BI , Azure Synapse etc. 
