@@ -46,9 +46,18 @@ inspired from paper https://arxiv.org/pdf/1506.06579.pdf this project visualizes
 
 ## [Retail Fraud transaction transaction Detection: Anomaly detection and clustering](https://github.com/ArpitaisAn0maly/Machine-Learning-AnomalyDetection)
 
+![](images/t-SNE.png)
+![](images/Fraud.png)
+
 For this experiment project I built an unsupervised clustering algorithm which segments retail transactions in groups based on similarity and also detencts anamolous transactions.
 
 ## [Covid 19 Extensive analysis by Regions & Case prediction: Logistic Regression ( sigmoid function)](https://github.com/ArpitaisAn0maly/Machine-Learning-Covid19)
+
+![](images/DailycasesByCountry.png)
+![](images/CovidUSSituation.png)
+![](images/CovidPredictionModel.png)
+![](images/Fatalitiesgrowth.png)
+
 
 This project contains analysis of covid 19 cases worldwide and in US. It uses geospatial libraries to visualize data through interactive maps and it also uses Logistic regression sigmoid model to predict cases in future. It is an end to end machine learning solution.
 
