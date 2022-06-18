@@ -6,9 +6,11 @@
 I am a passionate data scientist who has broad and in-depth data engineering, programming, statistics skills.I am using these skills to solve various business problems by using machine learning, data mining, and other types of data analytics and data visualization tools such as Python, Spark, Databricks, Azure suite of data tools, TensorFlow, Karas, Tableau, Hive, Power BI , Azure Synapse etc. 
 I have more than 12 years of experience in data analytics, data mining and predictive modeling. I did my Masters in Computer Science at National University.
 
-*In order to showcase my work in my portfolio, all outputs contain anonymized,synthesized sample data.There is no sensitive or proprietary information contained in any of the outputs*
+<b>In order to showcase my work in my portfolio, all outputs contain anonymized,synthesized sample data.There is no sensitive or proprietary information contained in any of the outputs.<b>
 
+*Click on each project title below to view github repository.*
 ## [Employee Atrition & Retention :Classification](https://github.com/ArpitaisAn0maly/SentimentAnalysis)
+
 
 For this project I built a supervised classification model which predicts which employee will stay with company and which employee will leave the company. It also estimates the probability of an employee leaving. This project also has presciptive solution where it shows what are the reasons behind employee atrition so an organization can take appropriate action to avoid employee atrition. 
 
