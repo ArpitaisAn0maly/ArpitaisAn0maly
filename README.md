@@ -8,7 +8,7 @@ I have more than 12 years of experience in data analytics, data mining and predi
 
 *In order to showcase my work in my portfolio, all outputs contain anonymized,synthesized sample data.There is no sensitive or proprietary information contained in any of the outputs*
 
-## [Employee Atrition & Retention :Classification]()
+## [Employee Atrition & Retention :Classification](https://github.com/ArpitaisAn0maly/SentimentAnalysis)
 
 For this project I built a supervised classification model which predicts which employee will stay with company and which employee will leave the company. It also estimates the probability of an employee leaving. This project also has presciptive solution where it shows what are the reasons behind employee atrition so an organization can take appropriate action to avoid employee atrition. 
 
