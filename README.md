@@ -12,17 +12,32 @@ I have more than 12 years of experience in data analytics, data mining and predi
 
 For this project I built a supervised classification model which predicts which employee will stay with company and which employee will leave the company. It also estimates the probability of an employee leaving. This project also has presciptive solution where it shows what are the reasons behind employee atrition so an organization can take appropriate action to avoid employee atrition. 
 
+![](images/confusionmatrix.png)
+![](images/TurnOverManager.png)
+
 ## [Forecasting Seat availability : Prophet Forecast Model](https://github.com/ArpitaisAn0maly/Machine-Learning-Forecasting)
 
 For this project I used Facebook's Prophet package which predicts passenger Seats availability based on historic trends. I also created a flavour of algorithm where it predicts availability by different category in a loop. I added extra regressors for missing dates/data so model is not underfitting. These same extra regressors can be used for other variables so same code can be used for multivariate analysis. Plotly intercative charts are used for all forecasts so you can switch between different time periods in same chart without having to create multiple forecasts for multiple time period.
+
+![](images/TrendForecast.png)
+![](images/TrendForecastComponent.png)
 
 ## [Employee Sentiment Analysis : Sentiment Analysis using NLP](https://github.com/ArpitaisAn0maly/SentimentAnalysis)
 
 This Project uses NLP libraries to analyze sentiments and tags them as positive , negative and neutral sentiments. It uses NLTK libraries to tokenize the words and it also has word cloud to see what are most used words in a comment or conversation.
 
+![](images/SentEmp.png)
+![](images/wordcloud.png)
+
 ## [Climate Change : GeoSpatial Analysis using Folium](https://github.com/ArpitaisAn0maly/GeospatialAnalysis_Folium)
 
 This projects aims to look at climate change by looking at hurricane data from Atlantic basin from NOAA (National Oceanic and Atmospheric Administration). It does Geospatial analysis analysis using python library folium to analyze hurricane tracks, landfalls and their impact over the years in US region. Folium maps used for this projects shows heatmap effect over the years theough sliders. This project can be used to understand geographical impact of any factor by analysing latittude and longitude data. 
+
+![](images/Hurricanetimelapse.png)
+![](images/LandfallLocation.png)
+![](images/HurricaneTotalVsLandfall.png)
+![](images/climate1.png)
+![](images/climate2.png)
 
 ## [Neutral Networks with Deep visualisation: Tensorflow](https://github.com/ArpitaisAn0maly/Vision_Deep_Learning_Visulisation)
 
