@@ -46,7 +46,7 @@ This projects aims to look at climate change by examining hurricane data from NO
 Inspired by paper https://arxiv.org/pdf/1506.06579.pdf. This project visualizes Neural Network Activation, Weights, Gradients to understand and interpret neural networks and what goes behind network activation and other aspects.
 
 
-## [Retail Fraud transaction transaction Detection: Anomaly detection and clustering](https://github.com/ArpitaisAn0maly/Machine-Learning-AnomalyDetection)
+## [Retail Fraud transaction Detection: Anomaly detection and clustering](https://github.com/ArpitaisAn0maly/Machine-Learning-AnomalyDetection)
 
 ![](images/t-SNE.png)
 ![](images/Fraud.png)
